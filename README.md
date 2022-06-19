@@ -2,7 +2,7 @@
 <h2 align="center">I'm AbdAlrhman Allam</h2>
 <h3 align="center">Fresh Graduate-Bachelor degree from Faculty of Computers and Artificial Intelligence-Computer Science as a major department,Information System as a minor department -Cairo University, Software Engineering and computer science enthusiast with a good knowledge of computer science fundamentals and web development process.</h3>
 <br />
-<div style="text-align:center">
+<div align="center">
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" widtt="70%">
  </div>
 <br />
